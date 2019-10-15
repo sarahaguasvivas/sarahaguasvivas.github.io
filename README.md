@@ -2,7 +2,9 @@
 
 Hi! I am Sarah, I am a third year PhD student in Computer Science at the University of Colorado Boulder!
 
-### Markdown
+### Research Work
+### Publications
+### CV
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
