@@ -1,8 +1,8 @@
 ## Sarah Aguasvivas Manzano
 
-<img src="img/MVIMG_20191010_125544.jpg width="200"
+<img src="img/MVIMG_20191010_125544.jpg" 
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" width="200" />
 
 Hi! I am Sarah, I am a third year PhD student in Computer Science at the University of Colorado Boulder! 
 
