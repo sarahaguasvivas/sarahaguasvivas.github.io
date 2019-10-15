@@ -6,16 +6,9 @@
 
 Hi! I am Sarah, I am a third year PhD student in Computer Science at the University of Colorado Boulder! 
 
-
-
-
-
-
-
-
 ### Research Statement
 
-I build algorithms that allow robotic materials to perform online predictions, controls and (hopefully) learning in a computationally restricted environment such as an off-the-shelf microcontroller to solve problems related to interactions with the physical environment such as terrain determination, impact source localization and so forth. 
+I build algorithms that allow robotic materials to perform online predictions, controls and online learning in a computationally restricted environment such as an off-the-shelf microcontroller to solve problems related to interactions with the physical environment.
 
 ### Publications
 
