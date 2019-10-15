@@ -21,7 +21,7 @@ I build algorithms that allow robotic materials to perform online predictions, c
 
 #### Theses:
 
-- **Aguasvivas Manzano, S.** Performance and Parsimony in Training Deep Neural Networks. Aerospace Engineering Department. Masters Thesis (2017).
+- **Aguasvivas Manzano, S.** Performance and Parsimony in Training Deep Neural Networks. Aerospace Engineering Department. The Pennsylvania State University. Masters Thesis (2017).
 
 
 ### Relevant Repositories
