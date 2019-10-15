@@ -14,7 +14,7 @@ I build algorithms that allow robotic materials to perform online predictions, c
 - **Aguasvivas Manzano, S.**, Correll, N. “In-situ Deep Learning for Prediction and Controls in Smart Composites.” 22nd International Conference on Composites Materials (2019). Presentation [Link to demo](https://www.youtube.com/watch?time_continue=12&v=0X3X-foe6hc)
 - **Aguasvivas Manzano, S.**, Hughes, D., Correll, N. “Wireless Online Impact Source Localization on a Composite.” 4th International Conference on System-Integrated Intelligence (2018) [Link](https://www.youtube.com/watch?v=0UA5F83giOA)
 - **Aguasvivas Manzano, S.**, Lavely, A., Vijayakumar, G., Brasseur, J., Schmitz, S. “Nonsteady Wind Turbine Loading Response to Passage of Daytime Atmospheric Turbulence Eddies.” Annual Meeting of the APS Division of Fluid Dynamics 68 (2015)
-)
+) [Link](https://www.youtube.com/watch?v=0UA5F83giOA)
 - **Aguasvivas Manzano, S.**, Jha, P., Plummer, J., and Schmitz, S. "Turbulent Transport in the Wakes of Wind Turbines." Annual Meeting of the APS Division of Fluid Dynamics 67 (2014) [Link](https://www.youtube.com/watch?v=2V_Vn-EWB5Q&t=82s)
 - Hava, H., Zhou, L., Lombardi, L., Cui, K., Joung, H., **Aguasvivas Manzano, S.**, et.al. “SIRONA: Sustainable Integration of Regenerative Outer-space Nature and Agriculture. Part I.” Architecture and Technology Session. International Conference on Environmental Systems (2019) [Link](https://ttu-ir.tdl.org/handle/2346/84413)
 - Basu, K., Melton, R., **Aguasvivas Manzano, S.** “Time-Optimal Reorientation using Neural Networks and Particle Swarm Formulation.” AAS/AIAA Astrodynamics Specialist Conference Columbia River Gorge, Stevenson, WA (2017) [Link](http://www.univelt.com/book=6408)
