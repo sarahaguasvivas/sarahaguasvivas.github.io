@@ -2,7 +2,7 @@
 
 <img src="img/MVIMG_20191010_125544 (2).jpg" 
      alt="Markdown Monster icon"
-     style="float: left; margin-center: 10px;" width="300" />
+     style="float: left; margin-center: 10px;" width="280" />
 
 Hi! I am Sarah, I am a third year PhD student in Computer Science at the University of Colorado Boulder! 
 
