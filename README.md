@@ -42,4 +42,5 @@ Correll Lab's Neural Network for Microcontrollers [nn4mc](https://github.com/cor
 - [CU Boulder CS Highlights](https://www.colorado.edu/cs/2018/09/13/joke-him-i-still-live-my-life-sometimes-dangerously-optimistic-sarah-aguasvivas-manzano)
 
 ### Things that I believe will exist in 30 years
-- Organic computers, that is, transistors made from organic matter. 
+- Organic computers, that is, transistors made from organic matter
+- VR fully-immersive language learning experiences
