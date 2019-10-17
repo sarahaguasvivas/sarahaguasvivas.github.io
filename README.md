@@ -26,6 +26,7 @@ I build algorithms that allow robotic materials to perform online predictions, c
 #### Theses:
 
 - **Aguasvivas Manzano, S.** Performance and Parsimony in Training Deep Neural Networks. Aerospace Engineering Department. The Pennsylvania State University. Masters Thesis (2017).
+- **Aguasvivas Manzano, S.** Corrections to the BEMT Method for Highly Loaded Wind Turbine Blades. Aerospace Engineering Department. The Pennsylvania State University. Undergraduate Thesis (2015).
 
 
 ### Relevant Repositories
