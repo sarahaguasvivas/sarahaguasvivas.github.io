@@ -36,6 +36,8 @@ I build algorithms that allow robotic materials to perform online predictions, c
 
 ### CV
 
+<embed src="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_AguasvivasManzano_Sarah.pdf" type="application/pdf" />
+
 ### Current and Past Projects
 
 ### Media Links
