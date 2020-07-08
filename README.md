@@ -31,8 +31,8 @@ I build algorithms that allow robotic materials to perform online predictions, c
 
 ### Relevant Repositories
 
-- **nn5mc:** Correll Lab's Neural Network for Microcontrollers [nn4mc](https://github.com/correlllab/nn4mc)
-- **GPC:** Sarah's C/Python implementation of a Generalized Predictive Controller [GPC](https://github.com/sarahaguasvivas/GPC)
+- **nn4mc:** Correll Lab's Neural Network for Microcontrollers [nn4mc](https://github.com/correlllab/nn4mc)
+- **Neural Predictive Controller for Soft Embedded Sensing and Flexible Materials** [link to repo](https://github.com/sarahaguasvivas/gpc_controller)
 
 ### CV
 
