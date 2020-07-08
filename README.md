@@ -32,7 +32,7 @@ I build algorithms that allow robotic materials to perform online predictions, c
 ### Relevant Repositories
 
 - **nn4mc:** Correll Lab's Neural Network for Microcontrollers [nn4mc](https://github.com/correlllab/nn4mc)
-- **Neural Predictive Controller for Soft Embedded Sensing and Flexible Materials** [link to repo](https://github.com/sarahaguasvivas/gpc_controller)
+- **Nonlinear MIMO Controller for Generalized Soft Robots with Soft Embedded Sensors** [link to repo](https://github.com/sarahaguasvivas/gpc_controller)
 
 ### CV
 
