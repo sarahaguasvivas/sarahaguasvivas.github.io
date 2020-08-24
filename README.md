@@ -4,7 +4,7 @@
      alt="Markdown Monster icon"
      style="float: left; margin-center: 10px;" width="280" />
 
-Hi! I am a third year PhD student in Computer Science at the University of Colorado Boulder! 
+Hi! I am a fourth year PhD student in Computer Science at the University of Colorado Boulder! 
 
 ### Research Statement
 
