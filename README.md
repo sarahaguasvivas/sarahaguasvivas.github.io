@@ -38,7 +38,7 @@ I build algorithms that allow robotic materials to perform online predictions, c
 
 <object data="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_AguasvivasManzano_Sarah.pdf" type="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_AguasvivasManzano_Sarah.pdf" width="700px" height="700px">
     <embed src="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_AguasvivasManzano_Sarah.pdf">
-        <p><a href="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_AguasvivasManzano_Sarah.pdf">Download PDF</a>.</p>
+        <p><a href="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_AguasvivasManzano_Sarah.pdf">Sarah's CV </a>.</p>
     </embed>
 </object>
 
