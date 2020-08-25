@@ -1,0 +1,14 @@
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/sarahaguasvivas"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/sarahaguasvivas"
+    
+  [[params.social]]
+    icon = "google-scholar-square"
+    icon_pack = "fa"
+    link = "//scholar.google.com/citations?user=fc-O9j4AAAAJ&hl=en&oi=ao"
