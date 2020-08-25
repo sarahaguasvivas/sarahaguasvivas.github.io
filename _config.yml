@@ -1,3 +1,4 @@
+logo: "img/IMG-20191228-WA0042.jpg?raw=true"
 theme: the-plain
 
 plugins:
@@ -5,4 +6,4 @@ plugins:
   
 remote_theme: heiswayi/the-plain
 
-logo: "img/IMG-20191228-WA0042.jpg"
+
