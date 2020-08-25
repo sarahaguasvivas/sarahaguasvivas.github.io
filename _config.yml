@@ -1,4 +1,3 @@
-logo: "img/IMG-20191228-WA0042.jpg?raw=true"
 theme: the-plain
 
 plugins:
@@ -12,41 +11,3 @@ title:              "Sarah {Aguasvivas Manzano}"
 description:        "PhD Student"
 author_name:        "Sarah Aguasvivas" # change this to your name
 logo_url:           "img/IMG-20191228-WA0042.jpg" # Get it from GitHub API: https://api.github.com/users/<username>
-
-# Site Settings
-url:                https://sarahaguasvivas.github.io # main url
-permalink:          /:title # Post permalink
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
-
-# Site Build
-highlighter:        rouge
-markdown:           kramdown
-kramdown:
-    input:          GFM
-sass:
-    style:          :compressed
-
-# Other Params
-include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
-plugins:
-  - jekyll-sitemap
-
-
-
-defaults:
-  -
-    scope:
-      path:         ""
-    values:
-      layout:       "null"
-  -
-    scope:
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      type:         "posts"
-    values:
-      layout:       "post"
