@@ -19,8 +19,6 @@ I build algorithms that allow robotic materials to perform online predictions, c
 ) [Link](https://www.youtube.com/watch?v=0UA5F83giOA)
 - **Aguasvivas Manzano, S.**, Jha, P., Plummer, J., and Schmitz, S. "Turbulent Transport in the Wakes of Wind Turbines." Annual Meeting of the APS Division of Fluid Dynamics 67 (2014) [Link](https://www.youtube.com/watch?v=2V_Vn-EWB5Q&t=82s)
 
-{% include youtube.html id=https://www.youtube.com/watch?v=0UA5F83giOA %}
-
 #### Theses:
 
 - **Aguasvivas Manzano, S.** Performance and Parsimony in Training Deep Neural Networks. Aerospace Engineering Department. The Pennsylvania State University. Masters Thesis (2017). [Link to repo](https://github.com/sarahaguasvivas/my_own_neural_network), [Link to demo](https://www.youtube.com/watch?v=GtuhoghSXg0&t=), [Link to thesis](https://etda.libraries.psu.edu/catalog/13814sia5396)
