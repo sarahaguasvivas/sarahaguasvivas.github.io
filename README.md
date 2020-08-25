@@ -1,12 +1,8 @@
-<img src="img/IMG-20191228-WA0042.jpg" 
-     alt="Markdown Monster icon"
-     style="float: left; margin-center: 10px;" width="280" />
-
 Hi! I am a fourth year PhD student in Computer Science at the University of Colorado Boulder! 
 
 ### Research Statement
 
-I build algorithms that allow robotic materials to perform online predictions, controls and online learning in a computationally restricted environment such as an off-the-shelf microcontroller to solve problems related to interactions with the physical environment. I call this Never Ending Robot Learning.
+I build algorithms that allow robotic materials to perform online predictions, controls and online learning in a computationally restricted environment such as an off-the-shelf microcontroller to solve problems related to interactions with the physical environment.
 
 ### Publications
 
