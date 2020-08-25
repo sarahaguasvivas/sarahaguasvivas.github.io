@@ -5,9 +5,8 @@ plugins:
   
 remote_theme: heiswayi/the-plain
 
-
 # Site Info
-title:              "Sarah {Aguasvivas Manzano}"
+title:              "Sarah Aguasvivas Manzano"
 description:        "PhD Student"
-author_name:        "Sarah Aguasvivas" # change this to your name
+author_name:        "Sarah Aguasvivas Manzano" # change this to your name
 logo_url:           "img/IMG-20191228-WA0042.jpg" # Get it from GitHub API: https://api.github.com/users/<username>
