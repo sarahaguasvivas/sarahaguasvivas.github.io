@@ -1,3 +1,6 @@
+---
+youtubeId: https://www.youtube.com/watch?v=0UA5F83giOA
+---
 ### Sarah {Aguasvivas Manzano}
 
 Hi! I am a fourth year PhD student in Computer Science at the University of Colorado Boulder! 
@@ -18,6 +21,8 @@ I build algorithms that allow robotic materials to perform online predictions, c
 - **Aguasvivas Manzano, S.**, Lavely, A., Vijayakumar, G., Brasseur, J., Schmitz, S. “Nonsteady Wind Turbine Loading Response to Passage of Daytime Atmospheric Turbulence Eddies.” Annual Meeting of the APS Division of Fluid Dynamics 68 (2015)
 ) [Link](https://www.youtube.com/watch?v=0UA5F83giOA)
 - **Aguasvivas Manzano, S.**, Jha, P., Plummer, J., and Schmitz, S. "Turbulent Transport in the Wakes of Wind Turbines." Annual Meeting of the APS Division of Fluid Dynamics 67 (2014) [Link](https://www.youtube.com/watch?v=2V_Vn-EWB5Q&t=82s)
+
+{% include youtube.html id=page.youtubeId %}
 
 #### Theses:
 
