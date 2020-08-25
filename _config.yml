@@ -9,4 +9,4 @@ remote_theme: heiswayi/the-plain
 title:              "Sarah {Aguasvivas Manzano}"
 description:        "PhD Student"
 author_name:        "Sarah Aguasvivas Manzano" # change this to your name
-logo_url:           "img/IMG-20191228-WA0042.jpg" # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           "img/picture_website.png" # Get it from GitHub API: https://api.github.com/users/<username>
