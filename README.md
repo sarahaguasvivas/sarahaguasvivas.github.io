@@ -1,5 +1,3 @@
-## Sarah Aguasvivas Manzano
-
 <img src="img/IMG-20191228-WA0042.jpg" 
      alt="Markdown Monster icon"
      style="float: left; margin-center: 10px;" width="280" />
