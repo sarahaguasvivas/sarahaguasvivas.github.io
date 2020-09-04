@@ -36,6 +36,12 @@ Here you are going to make the following changes:
 > </br>
 > [...]</br>
 
+```
+$ cd .. && mkdir build && cd build
+$ cmake ..
+$ make vrpn-python
+$ sudo make install vrpn-python
+```
 
 ##### Possible issue: 
 
