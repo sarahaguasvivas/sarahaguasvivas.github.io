@@ -1,3 +1,9 @@
+---
+title: VRPN Client for Python3.X
+layout: template
+filename: vrpn_client.md
+--- 
+
 ### How to install a vrpn client in Python3.X
 
 #### From system interpreter (Linux)
