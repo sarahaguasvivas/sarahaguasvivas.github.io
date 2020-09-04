@@ -22,30 +22,19 @@ $ edit python_vrpn/Makefile.python
 
 Here you are going to make the following changes: 
 
+> include ../Makefile
 
-# file:	Makefile.python
-# author:	Thiebaut Mochel mochel@cecpv.u-strasbg.fr 2008-06-05
-# copyright:	(C)2008  CECPV
-# license:	Released to the Public Domain.
-# depends:	python 2.4, swig 1.3.35, VRPN 07_15
-# tested on:	Linux w/ gcc 4.1.2
-# references:  http://python.org/ http://vrpn.org/
-#              http://www.swig.org
-#
- 
-include ../Makefile
-
-PYTHON_VER := ~~$(shell /usr/bin/python -V 2>&1 | sed 's/^[^0-9]*\([0-9]\+.[0-9]\+\)[^0-9].*/\1/')~~ **3.X**
-VRPN_ROOT_DIR := ..
-OBJECT_DIR := $(VRPN_ROOT_DIR)/$(OBJECT_DIR)
-PYTHON_INCLUDE_DIR := ~~/usr/include/python$(PYTHON_VER)~~ **/usr/local/include.python3.X**
-PYTHON_LIB := python$(PYTHON_VER)
-PYTHON_PACKAGES_DIR := ~~$(LIB_DIR)/python$(PYTHON_VER)/dist-packages~~ **/usr/local/lib/python3.X/dist-packages**
-QUAT_INCLUDE_DIR := $(VRPN_ROOT_DIR)/quat
-QUAT_LIB_DIR := $(QUAT_INCLUDE_DIR)
-QUAT_LIB := quat
- 
-[...]
+> PYTHON_VER := ~~$(shell /usr/bin/python -V 2>&1 | sed 's/^[^0-9]*\([0-9]\+.[0-9]\+\)[^0-9].*/\1/')~~ **3.X**
+> VRPN_ROOT_DIR := ..
+> OBJECT_DIR := $(VRPN_ROOT_DIR)/$(OBJECT_DIR)
+> PYTHON_INCLUDE_DIR := ~~/usr/include/python$(PYTHON_VER)~~ **/usr/local/include.python3.X**
+> PYTHON_LIB := python$(PYTHON_VER)
+> PYTHON_PACKAGES_DIR := ~~$(LIB_DIR)/python$(PYTHON_VER)/dist-packages~~ **/usr/local/lib/python3.X/dist-packages**
+> QUAT_INCLUDE_DIR := $(VRPN_ROOT_DIR)/quat
+> QUAT_LIB_DIR := $(QUAT_INCLUDE_DIR)
+> QUAT_LIB := quat
+> 
+> [...]
 
 
 ##### Possible issue: 
