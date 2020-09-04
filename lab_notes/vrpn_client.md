@@ -36,6 +36,8 @@ Here you are going to make the following changes:
 > </br>
 > [...]</br>
 
+After you save that file then build the vrpn project. 
+
 ```
 $ cd .. && mkdir build && cd build
 $ cmake ..
