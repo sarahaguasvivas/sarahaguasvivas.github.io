@@ -36,6 +36,13 @@ I build algorithms that allow robotic materials to perform online predictions, c
 
 ### Current and Past Projects
 
+TODO
+
+### Sarah's Lab Notes:
+
+Here I keep things that were hard to figure out for me: 
+[Installing VRPN in Python3.X](lab_notes/vrpn-client.md)
+
 ### Media Links
 - [NASA BigIdea SIRONA Team](https://www.colorado.edu/engineering/2019/05/30/all-woman-engineering-team-earns-most-innovative-award-nasa-mars-competition)
 - [CU Boulder CS Highlights](https://www.colorado.edu/cs/2018/09/13/joke-him-i-still-live-my-life-sometimes-dangerously-optimistic-sarah-aguasvivas-manzano)
