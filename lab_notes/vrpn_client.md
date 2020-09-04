@@ -22,19 +22,19 @@ $ edit python_vrpn/Makefile.python
 
 Here you are going to make the following changes: 
 
-> include ../Makefile
+> include ../Makefile</br>
 
-> PYTHON_VER := ~~$(shell /usr/bin/python -V 2>&1 | sed 's/^[^0-9]*\([0-9]\+.[0-9]\+\)[^0-9].*/\1/')~~ **3.X**
-> VRPN_ROOT_DIR := ..
-> OBJECT_DIR := $(VRPN_ROOT_DIR)/$(OBJECT_DIR)
-> PYTHON_INCLUDE_DIR := ~~/usr/include/python$(PYTHON_VER)~~ **/usr/local/include.python3.X**
-> PYTHON_LIB := python$(PYTHON_VER)
-> PYTHON_PACKAGES_DIR := ~~$(LIB_DIR)/python$(PYTHON_VER)/dist-packages~~ **/usr/local/lib/python3.X/dist-packages**
-> QUAT_INCLUDE_DIR := $(VRPN_ROOT_DIR)/quat
-> QUAT_LIB_DIR := $(QUAT_INCLUDE_DIR)
-> QUAT_LIB := quat
-> 
-> [...]
+> PYTHON_VER := ~~$(shell /usr/bin/python -V 2>&1 | sed 's/^[^0-9]*\([0-9]\+.[0-9]\+\)[^0-9].*/\1/')~~ **3.X** </br>
+> VRPN_ROOT_DIR := ..</br>
+> OBJECT_DIR := $(VRPN_ROOT_DIR)/$(OBJECT_DIR)</br>
+> PYTHON_INCLUDE_DIR := ~~/usr/include/python$(PYTHON_VER)~~ **/usr/local/include.python3.X**</br>
+> PYTHON_LIB := python$(PYTHON_VER)</br>
+> PYTHON_PACKAGES_DIR := ~~$(LIB_DIR)/python$(PYTHON_VER)/dist-packages~~ **/usr/local/lib/python3.X/dist-packages**</br>
+> QUAT_INCLUDE_DIR := $(VRPN_ROOT_DIR)/quat</br>
+> QUAT_LIB_DIR := $(QUAT_INCLUDE_DIR)</br>
+> QUAT_LIB := quat</br>
+> </br>
+> [...]</br>
 
 
 ##### Possible issue: 
