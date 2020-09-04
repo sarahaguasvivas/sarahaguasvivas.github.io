@@ -1,6 +1,6 @@
 ---
 title: VRPN Client for Python3.X
-layout: template
+layout: page
 filename: vrpn_client.md
 --- 
 
