@@ -27,7 +27,7 @@ Here you are going to make the following changes:
 > PYTHON_VER := ~~$(shell /usr/bin/python -V 2>&1 | sed 's/^[^0-9]*\([0-9]\+.[0-9]\+\)[^0-9].*/\1/')~~ **3.X** </br>
 > VRPN_ROOT_DIR := ..</br>
 > OBJECT_DIR := $(VRPN_ROOT_DIR)/$(OBJECT_DIR)</br>
-> PYTHON_INCLUDE_DIR := ~~/usr/include/python$(PYTHON_VER)~~ **/usr/local/include.python3.X**</br>
+> PYTHON_INCLUDE_DIR := ~~/usr/include/python$(PYTHON_VER)~~ **/usr/local/include/python3.X**</br>
 > PYTHON_LIB := python$(PYTHON_VER)</br>
 > PYTHON_PACKAGES_DIR := ~~$(LIB_DIR)/python$(PYTHON_VER)/dist-packages~~ **/usr/local/lib/python3.X/dist-packages**</br>
 > QUAT_INCLUDE_DIR := $(VRPN_ROOT_DIR)/quat</br>
