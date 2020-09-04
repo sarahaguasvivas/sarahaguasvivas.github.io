@@ -41,7 +41,7 @@ TODO
 ### Sarah's Lab Notes:
 
 Here I keep things that were hard to figure out for me: 
-[Installing VRPN in Python3.X](lab_notes/vrpn-client.md)
+[Installing VRPN in Python3.X](https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/lab_notes/vrpn_client.md)
 
 ### Media Links
 - [NASA BigIdea SIRONA Team](https://www.colorado.edu/engineering/2019/05/30/all-woman-engineering-team-earns-most-innovative-award-nasa-mars-competition)
