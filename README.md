@@ -49,4 +49,4 @@ Here I keep things that were hard to figure out for me:
 
 ### Things I believe will exist in 30 years
 - Organic computers, that is, transistors made from organic matter
-- VR fully-immersive language learning experiences
+- VR-enabled fully immersive language learning experiences
