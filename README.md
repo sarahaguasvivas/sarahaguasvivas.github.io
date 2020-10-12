@@ -49,5 +49,5 @@ Here I keep things that were hard to figure out for me:
 - [CU Boulder CS Highlights](https://www.colorado.edu/cs/2018/09/13/joke-him-i-still-live-my-life-sometimes-dangerously-optimistic-sarah-aguasvivas-manzano)
 
 ### Things I believe will exist in 30 years
-- Organic computers, that is, transistors made from organic matter
+- Organic computers, that is, logic gates made from organic matter
 - VR-enabled fully immersive language learning experiences
