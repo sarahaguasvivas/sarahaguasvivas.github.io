@@ -10,7 +10,7 @@ I build algorithms that allow robotic materials to perform online predictions, c
 
 #### Conferences and Proceedings:
 
-- **Aguasvivas Manzano, S.**,  Xu,  P.,  Ly,  K.,  Shepherd,  R.,  Correll,  N.  Control  of  Soft  Bodieswith Arbitrary Embedded Soft Sensor Placement. International Symposium of Experimental Robotics (ISER 2020).Accepted for Publication.
+- **Aguasvivas Manzano, S.**,  Xu,  P.,  Ly,  K.,  Shepherd,  R.,  Correll,  N.  High-bandwidth nonlinear control for soft actuators with recursive network models (ISER 2020). Accepted for Publication.
 - **Aguasvivas Manzano, S.**, Hughes, D., Simpson, C., Patel, R., Correll, N. “Embedded Neural Networks for Robot Autonomy.” International Symposium on Robotics Research (2019). [Link to arvix](https://arxiv.org/abs/1911.03848)
 - **Aguasvivas Manzano, S.**, Correll, N. “In-situ Deep Learning for Prediction and Controls in Smart Composites.” 22nd International Conference on Composites Materials (2019). Presentation [Link to demo](https://www.youtube.com/watch?time_continue=12&v=0X3X-foe6hc)
 - Hava, H., Zhou, L., Lombardi, L., Cui, K., Joung, H., **Aguasvivas Manzano, S.**, et.al. “SIRONA: Sustainable Integration of Regenerative Outer-space Nature and Agriculture. Part I.” Architecture and Technology Session. International Conference on Environmental Systems (2019) [Link](https://ttu-ir.tdl.org/handle/2346/84413)
