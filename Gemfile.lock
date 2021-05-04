@@ -65,7 +65,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.22.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
@@ -87,6 +87,8 @@ PLATFORMS
 DEPENDENCIES
   html-proofer
   jekyll-sitemap
+  kramdown (>= 2.3.1)
+  nokogiri (>= 1.11.0.rc4)
   tzinfo
   tzinfo-data
 
