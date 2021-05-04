@@ -32,7 +32,7 @@ I build algorithms that allow robotic materials to perform online predictions, c
 - **Nonlinear MIMO MPC Controller for Soft Robots with Soft Embedded Sensors:** 
     [link to repo](https://github.com/sarahaguasvivas/gpc_controller)
 
-    <img src="https://github.com/sarahaguasvivas/nlsoft/blob/master/docs/neural_network_architecture.gif" style="display" width="500"/>
+<img src="https://github.com/sarahaguasvivas/nlsoft/blob/master/docs/neural_network_architecture.gif" width="500"/>
 
 ### CV
 
