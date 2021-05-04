@@ -1,9 +1,9 @@
+markdown: GFM
+
 theme: the-plain
 
 plugins:
   - jekyll-remote-theme
-  
-markdown: GFM
   
 remote_theme: heiswayi/the-plain
 
