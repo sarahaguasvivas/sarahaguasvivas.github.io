@@ -1,10 +1,10 @@
 markdown: GFM
 
 theme: jekyll-theme-minimal
-logo: "img/picture_website2.jpg"
+logo: "img/picture_website2.png"
 
 # Site Info
 title:              "Sarah {Aguasvivas Manzano}"
 description:        "PhD Student"
 author_name:        "Sarah Aguasvivas Manzano" # change this to your name
-logo_url:           "img/picture_website2.jpg" # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           "img/picture_website2.png" # Get it from GitHub API: https://api.github.com/users/<username>
