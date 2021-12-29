@@ -4,7 +4,10 @@ theme: jekyll-theme-minimal
 logo: "img/picture_website2.png"
 
 # Site Info
-title:              "Sarah {Aguasvivas Manzano}"
-description:        "PhD Student"
+title:              "Sarah Aguasvivas Manzano"
+description:        "I am a fifth year PhD Candidate in Computer Science at the University of Colorado Boulder. My academic background includes Aerospace Engineering and Computer Science. I've contributed in research ranging from wind turbine aerodynamics to soft robotics, including control in autonomous vehicles. My current interest is the deployment of advanced continual learning, modeling and control onto soft robots that do not allow powerful computers in their payload. This requires new lightweight algorithmic design, advanced model compiling and rethinking our models in order to deploy less memory-hungry methods. 
+<br><br>
+I am also passionate in the advancement of STEM in the Dominican Republic, my home country.
+"
 author_name:        "Sarah Aguasvivas Manzano" # change this to your name
 logo_url:           "img/picture_website2.png" # Get it from GitHub API: https://api.github.com/users/<username>

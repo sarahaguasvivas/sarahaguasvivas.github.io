@@ -1,6 +1,5 @@
-### Sarah {Aguasvivas Manzano}
+### Sarah Aguasvivas Manzano
 
-Hi! I am a fourth year PhD student in Computer Science at the University of Colorado Boulder! 
 
 ### Research Statement
 
