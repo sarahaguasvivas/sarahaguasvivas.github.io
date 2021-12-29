@@ -3,7 +3,8 @@
 
 ### Research Statement
 
-I build algorithms that allow robotic materials to perform online predictions, controls and online learning in a computationally restricted environment such as an off-the-shelf microcontroller to solve problems related to interactions with the physical environment. The ultimate goal of this research is to develop a network of distributed learners able to make local updates to their knowledge base.
+My current interest is the deployment of learning, modeling and control onto soft robots that do not allow powerful computers in their payload. This requires rethinking our modeling, control and learning methods in order to deploy less memory-hungry brains on our soft robots. 
+ build algorithms that allow robotic materials to perform online predictions, controls and online learning in a computationally restricted environment such as an off-the-shelf microcontroller to solve problems related to interactions with the physical environment. The ultimate goal of this research is to develop a network of distributed learners able to make local updates to their knowledge base.
 
 ### Publications
 
