@@ -1,6 +1,5 @@
-### Portfolio
+### Research
 
-### Research Statement
 My current interest is the deployment of learning, modeling and control onto soft 
 robots that do not allow powerful computers in their payload. 
 This requires rethinking our modeling, control and learning methods in order 
