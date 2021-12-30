@@ -10,7 +10,7 @@ solve problems related to interactions with the physical environment. The ultima
 goal of this research is to develop a network of distributed learners able to make 
 local updates to their knowledge base.
 
-#### High-bandwidth nonlinear control for soft actuators with recursive network models (ISER 2020)
+#### High-bandwidth nonlinear control for soft actuators
 
 ![alt text](img/iser2020.png)
 
