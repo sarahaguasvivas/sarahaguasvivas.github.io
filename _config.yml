@@ -4,7 +4,7 @@ logo: "img/picture_website2.png"
 title:              "Sarah Aguasvivas"
 description:        "I am a PhD Candidate in Computer Science at the University of Colorado Boulder. My academic background includes both Aerospace Engineering and Computer Science. I've contributed in research ranging from wind turbine aerodynamics to soft robotics, including control in autonomous vehicles. 
 <br><br>
-I am also passionate in the advancement of STEM in the Dominican Republic, my home country and about Brazilian Jiu Jitsu as a martial art and lifestyle that informs my daily efforts.
+I am also passionate about the advancement of STEM in the Dominican Republic, my home country and about Brazilian Jiu Jitsu as a martial art and lifestyle that informs my daily efforts.
 "
 author_name:        "Sarah Aguasvivas Manzano" # change this to your name
 logo_url:           "img/picture_website2.png" # Get it from GitHub API: https://api.github.com/users/<username>
