@@ -47,7 +47,7 @@ local updates to their knowledge base.
 
 [Link to CV]("https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/CV_AguasvivasManzano_Sarah.pdf")
 
-<iframe src="/docs/CV_AguasvivasManzano_Sarah.pdf" width="300" height="500px"></iframe>
+<object src="/docs/CV_AguasvivasManzano_Sarah.pdf" width="300" height="500px"></object>
 
 ### Sarah's Lab Notes:
 
