@@ -37,22 +37,19 @@ local updates to their knowledge base.
 - **Aguasvivas Manzano, S.** Performance and Parsimony in Training Deep Neural Networks. Aerospace Engineering Department. The Pennsylvania State University. Masters Thesis (2017). [Link to repo](https://github.com/sarahaguasvivas/my_own_neural_network), [Link to demo](https://www.youtube.com/watch?v=GtuhoghSXg0&t=), [Link to thesis](https://etda.libraries.psu.edu/catalog/13814sia5396)
 - **Aguasvivas Manzano, S.** Corrections to the BEMT Method for Highly Loaded Wind Turbine Blades. Aerospace Engineering Department. The Pennsylvania State University. Undergraduate Thesis (2015).
 
-
 ### Relevant Repositories
 
 - **nn4mc: [nn4mc.com](https://nn4mc.com/)** Correll Lab's Neural Network for Microcontrollers [nn4mc](https://github.com/correlllab/nn4mc)
 - **Nonlinear MIMO MPC Controller for Soft Robots with Soft Embedded Sensors:** 
     [link to repo](https://github.com/sarahaguasvivas/gpc_controller)
 
-<img src="https://github.com/sarahaguasvivas/nlsoft/blob/master/docs/neural_network_architecture.gif" width="500"/>
+### CV (Up-to-date on Jan 2022)
 
-### CV
+[Link to CV]("https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/CV_AguasvivasManzano_Sarah.pdf")
 
-[Sarah's CV (Last Updated October 2020)](https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/CV_AguasvivasManzano_Sarah.pdf)
-
-### Current and Past Projects
-
-TODO
+<img src="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_0.png" width="100">
+<img src="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_1.png" width="100">
+<img src="https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/cv_2.png" width="100">
 
 ### Sarah's Lab Notes:
 
