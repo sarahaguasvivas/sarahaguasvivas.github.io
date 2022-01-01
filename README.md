@@ -14,6 +14,10 @@ local updates to their knowledge base.
 
 ![alt text](img/iser2020.png)
 
+#### Neural Networks for Microcontrollers
+
+![alt text](img/nn4mc_overview.png)
+
 ### Publications
 
 #### Conferences and Proceedings:
