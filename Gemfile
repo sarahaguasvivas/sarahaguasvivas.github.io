@@ -1,10 +1,7 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
-group :jekyll_plugins do
-  gem "jekyll-sitemap"
-end
-gem "nokogiri", ">= 1.11.0.rc4"
-gem 'html-proofer'
-gem "rexml", ">= 3.2.5"
-gem "kramdown", ">= 2.3.1"
-gem 'tzinfo'
-gem 'tzinfo-data'
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# gem "rails"
