@@ -46,7 +46,7 @@ local updates to their knowledge base.
 
 ### CV (Up-to-date on Jan 2022)
 
-[Link to CV](https://github.com/sarahaguasvivas/sarahaguasvivas.github.io/blob/master/docs/CV_AguasvivasManzano_Sarah.pdf)
+[Link to CV](docs/CV_AguasvivasManzano_Sarah.pdf)
 
 ### Sarah's Lab Notes:
 
