@@ -10,7 +10,7 @@ solve problems related to interactions with the physical environment. The ultima
 goal of this research is to develop a network of distributed learners able to make 
 local updates to their knowledge base.
 
-<img src="img/3mt_slide.png" alt = "drawing" style = "width:200px;"/>
+![alt text](img/3mt_slide.png)
 
 #### High-bandwidth nonlinear control for soft actuators
 
