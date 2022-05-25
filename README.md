@@ -49,7 +49,6 @@ Using the compiler from the previous work, I deploy a nonlinear control algorith
 #### Theses:
 
 - **Aguasvivas Manzano, S.** Performance and Parsimony in Training Deep Neural Networks. Aerospace Engineering Department. The Pennsylvania State University. Masters Thesis (2017). [Link to repo](https://github.com/sarahaguasvivas/my_own_neural_network), [Link to demo](https://www.youtube.com/watch?v=GtuhoghSXg0&t=), [Link to thesis](https://etda.libraries.psu.edu/catalog/13814sia5396)
-    {%include youtube.html id=GtuhoghSXg0" %}
 - **Aguasvivas Manzano, S.** Corrections to the BEMT Method for Highly Loaded Wind Turbine Blades. Aerospace Engineering Department. The Pennsylvania State University. Undergraduate Thesis (2015).
 
 ### Relevant Repositories
