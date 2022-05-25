@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 remote_theme: pages-theme/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+    - jekyll-remote-theme
 logo: "img/picture_website2.png"
 title:              "Sarah Aguasvivas Manzano"
 description:        "I am a PhD graduate in Computer Science from the University of Colorado Boulder. My academic background includes both Aerospace Engineering and Computer Science. I've contributed to research ranging from wind turbine aerodynamics to soft robotics, including control in autonomous vehicles. I will be working at Apple starting July, 2022.  
