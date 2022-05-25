@@ -2,16 +2,16 @@ theme: jekyll-theme-minimal
 #remote_theme: pages-theme/minimal@v0.2.0
 plugins:
     - jekyll-remote-theme
-#logo: "img/picture_website2.png"
-#title:              "Sarah Aguasvivas Manzano"
-#description:        "I am a PhD graduate in Computer Science from the University of Colorado Boulder. My academic background includes both Aerospace Engineering and Computer Science. I've contributed to research ranging from wind turbine aerodynamics to soft robotics, including control in autonomous vehicles. I will be working at Apple starting July, 2022.  
-#<br><br>
-#I am also passionate about the advancement of STEM and general education in the Dominican Republic, my home country, and about Brazilian Jiu Jitsu as a martial art and lifestyle that informs my daily efforts.
-#<br><br>
-#<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/sarahaguasvivas/"><i class="fab fa-linkedin-in"></i></a>
-#<a class="btn btn-dark btn-social mx-2" href="https://github.com/sarahaguasvivas"><i class="fab fa-github"></i></a>
-#<a class="btn btn-dark btn-social mx-2" href="https://sarahaguasvivas.github.io/"><i class="fas fa-globe"></i></a>
-#<a class="btn btn-dark btn-social mx-2" href="mailto:Sarah.AguasvivasManzano@colorado.edu?subject = Hello!&body = Message"><i class="far fa-paper-plane"></i></a>
-#"
-#author_name:        "Sarah Aguasvivas Manzano" # change this to your name
-#logo_url:           "img/picture_website2.png" # Get it from GitHub API: https://api.github.com/users/<username>
+logo: "img/picture_website2.png"
+title:              "Sarah Aguasvivas Manzano"
+description:        "I am a PhD graduate in Computer Science from the University of Colorado Boulder. My academic background includes both Aerospace Engineering and Computer Science. I've contributed to research ranging from wind turbine aerodynamics to soft robotics, including control in autonomous vehicles. I will be working at Apple starting July, 2022.  
+<br><br>
+I am also passionate about the advancement of STEM and general education in the Dominican Republic, my home country, and about Brazilian Jiu Jitsu as a martial art and lifestyle that informs my daily efforts.
+<br><br>
+<a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/in/sarahaguasvivas/"><i class="fab fa-linkedin-in"></i></a>
+<a class="btn btn-dark btn-social mx-2" href="https://github.com/sarahaguasvivas"><i class="fab fa-github"></i></a>
+<a class="btn btn-dark btn-social mx-2" href="https://sarahaguasvivas.github.io/"><i class="fas fa-globe"></i></a>
+<a class="btn btn-dark btn-social mx-2" href="mailto:Sarah.AguasvivasManzano@colorado.edu?subject = Hello!&body = Message"><i class="far fa-paper-plane"></i></a>
+"
+author_name:        "Sarah Aguasvivas Manzano" # change this to your name
+logo_url:           "img/picture_website2.png" # Get it from GitHub API: https://api.github.com/users/<username>
